@@ -1,0 +1,6 @@
+CLOC is a program which allows one to examine natural language text. It
+currently includes the production of sorted vocabulary lists, word indexes,
+concordances, automatic discovery of collocations, and searches for phrases.
+It has been designed for ease of use by people with little or no computer
+experience, and has been used by Humanities students both for teaching
+and research.
