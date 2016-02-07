@@ -1,0 +1,42 @@
+ CLOC mark 2S run on Sun Feb  7 18:18:40 2016      (Copyright(C) Alan Reed,1984)
+                        listing of control statements
+
+                        inputdetails)endhyphen-
+                        itemizeusing)cloc
+                        *letters)abcdefghijklmnopqrstuvwxyz
+                        *)-'
+                        *padding) -
+                        *deferred) '
+ default                *separators    !"#$%&()*+,./0123456789:;<=>?@[\]^_`{|}~
+ the text contains :
+      939  running words
+      407  distinct words
+ and the maximum word length is 14 characters
+
+                        outputdetails)width80
+                        co-occurrence)count
+                        *choice) he she we they
+                                         1
+ error(s)  1: no words found
+                         
+                        everyword
+                        wordlist)alpha
+                         
+                        selectwords
+                        *pattern) *ed *ing
+                        wordlist)alpha
+                         
+                        selectwords
+                        *listofwords) Rico Witt
+                        concordance
+                         
+                        selectwords
+                        *listofwords) love spite
+                        collocations
+ default                *span          4 by 4
+                        *frequency) >3
+                        collocations)about collocate
+ default                *span          4 by 4
+                        *frequency) >3
+                         
+                        finish

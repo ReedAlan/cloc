@@ -1,0 +1,17 @@
+ CLOC mark 2S run on Sun Feb  7 18:23:14 2016      (Copyright(C) Alan Reed,1984)
+                        listing of control statements
+
+ default                input details  width80
+                        itemizeusing)cloc
+                        *letters)abcdefghijklmnopqrstuvwxyz
+ default                *separators    !"#$%&'()*+,-./0123456789:;<=>?@[\]^_`{|}~
+ the text contains :
+      113  running words
+       71  distinct words
+ and the maximum word length is 14 characters
+
+                        savetext)test5.sav
+ text file test5.sav                                                                                            saved on 
+ Sun Feb  7 18:23:14 2016     
+ default                output details width120
+                        finish

@@ -1,0 +1,98 @@
+ CLOC mark 2S run on Sun Feb  7 18:16:30 2016      (Copyright(C) Alan Reed,1984)
+                        listing of control statements
+
+ default                input details  width80
+                        itemizeusing)cloc
+                        *letters)abcdefghijklmnopqrstuvwxyz
+ default                *separators    !"#$%&'()*+,-./0123456789:;<=>?@[\]^_`{|}~
+ the text contains :
+      113  running words
+       71  distinct words
+ and the maximum word length is 14 characters
+
+                        outputdetails)width80
+                        everyword
+                        note)this line is ignored
+                        writetext
+                        wordlist
+                        wordlist)alpha
+                        wordlist)revalpha
+                        wordlist)afreq
+                        wordlist)dfreq
+                        wordlist)dalpha
+                        wordlist)alength
+                        wordlist)dlength
+                        wordlist)axlength
+                        wordlist)dxlength
+                        wordlist)first
+                        wordlist)last
+                        index
+                        index)wordrefs0
+                        index)wordrefs1
+                        index)alpha
+                        index)revalpha
+                        index)afreq
+                        index)dfreq
+                        index)dalpha
+                        index)alength
+                        index)dlength
+                        index)axlength
+                        index)dxlength
+                        index)first
+                        index)last
+                         
+                        selectwords
+                        *frequency) 2
+                        concordance
+                        concordance)left
+                         
+                        selectwords
+                        *listofwords)university
+                        collocations)kwic,cite 5 by 5,linerefs0
+ default                *span          4 by 4
+                        *frequency) >2
+                         
+                        selectwords
+                        *listofwords)university a the
+                        collocations
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)about collocate
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)condensed
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)fullcondensed
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)fullcondensed
+                        *span) 4 by 4 restricted
+ default                *frequency     >1
+                        co-occurrence
+                        *phrase)the university
+                        *series)the upto4 university
+                        *pattern) *ity
+                        *choice) the university
+                        co-occurrence)count
+                        *phrase)the university
+                        *series)the upto4 university
+                        *pattern) *ity
+                        *choice) the university
+                        co-occurrence)null,count
+                        *phrase)the university
+                        *series)the upto4 university
+                        *pattern) *ity
+                        *choice) the university
+                         
+                        everyword
+                        collocations)condensed
+ default                *span          4 by 4
+ default                *frequency     >1
+                        everycollocate
+                        rejecting
+                        *frequency) >3
+                        accepting
+                        *listofwords) the
+                        message)finished
+                        finish

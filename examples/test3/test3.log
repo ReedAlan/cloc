@@ -1,0 +1,18 @@
+ CLOC mark 2S run on Sun Feb  7 18:20:03 2016      (Copyright(C) Alan Reed,1984)
+                        listing of control statements
+
+                        inputdetails)refs[],skip{}
+                        itemizeusing)cloc
+                        *letters)abcdefghijklmnopqrstuvwxyz-<
+                        *padding) -<
+ default                *separators    !"#$%&'()*+,./0123456789:;=>?@\^_`|~
+ the text contains :
+     2018  running words
+      822  distinct words
+ and the maximum word length is 12 characters
+
+                        outputdetails)width80
+                        everyword
+                        wordlist)alpha
+                        index) refs f1p3l4
+                        finish

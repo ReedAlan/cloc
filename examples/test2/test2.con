@@ -1,0 +1,29 @@
+inputdetails)endhyphen-
+itemizeusing)cloc
+*letters)abcdefghijklmnopqrstuvwxyz
+*)-'
+*padding) -
+*deferred) '
+outputdetails)width80
+co-occurrence)count
+*choice) he she we they
+
+everyword
+wordlist)alpha
+
+selectwords
+*pattern) *ed *ing
+wordlist)alpha
+
+selectwords
+*listofwords) Rico Witt
+concordance
+
+selectwords
+*listofwords) love spite
+collocations
+*frequency) >3
+collocations)about collocate
+*frequency) >3
+
+finish

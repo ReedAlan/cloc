@@ -1,0 +1,83 @@
+inputdetails)endhyphen-
+itemizeusing)cloc
+*letters)abcdefghijklmnopqrstuvwxyz'
+*padding)'
+outputdetails)width80
+everyword
+note)this line is ignored
+writetext
+wordlist
+wordlist)alpha
+wordlist)revalpha
+wordlist)afreq
+wordlist)dfreq
+wordlist)dalpha
+wordlist)alength
+wordlist)dlength
+wordlist)axlength
+wordlist)dxlength
+wordlist)first
+wordlist)last
+index
+index)wordrefs0
+index)wordrefs1
+index)alpha
+index)revalpha
+index)afreq
+index)dfreq
+index)dalpha
+index)alength
+index)dlength
+index)axlength
+index)dxlength
+index)first
+index)last
+
+selectwords
+*frequency) 2
+concordance
+concordance)left
+
+selectwords
+*listofwords)passeport
+collocations)kwic,cite 5 by 5,linerefs0
+*frequency) >2
+
+selectwords
+*listofwords)passeport
+collocations
+collocations)about collocate
+collocations)condensed
+collocations)fullcondensed
+collocations)fullcondensed
+*span) 4 by 4 restricted
+co-occurrence
+*phrase)dans les
+*series)dans upto4 les
+*pattern) *ait
+*choice) europeenne europeen
+co-occurrence)count
+*phrase)dans les
+*series)dans upto4 les
+*pattern) *ait
+*choice) europeenne europeen
+co-occurrence)null,count
+*phrase)dans les
+*series)dans upto4 les
+*pattern) *ait
+*choice) europeenne europeen
+
+everyword
+collocations)condensed
+everycollocate
+rejecting
+*frequency) >3
+accepting
+*listofwords) la
+
+statistics
+*profile)binsize10
+
+message)finished
+finish
+

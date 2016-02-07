@@ -1,0 +1,103 @@
+ CLOC mark 2S run on Sun Feb  7 18:21:35 2016      (Copyright(C) Alan Reed,1984)
+                        listing of control statements
+
+                        inputdetails)endhyphen-
+                        itemizeusing)cloc
+                        *letters)abcdefghijklmnopqrstuvwxyz'
+                        *padding)'
+ default                *separators    !"#$%&()*+,-./0123456789:;<=>?@[\]^_`{|}~
+ the text contains :
+      280  running words
+      162  distinct words
+ and the maximum word length is 16 characters
+
+                        outputdetails)width80
+                        everyword
+                        note)this line is ignored
+                        writetext
+                        wordlist
+                        wordlist)alpha
+                        wordlist)revalpha
+                        wordlist)afreq
+                        wordlist)dfreq
+                        wordlist)dalpha
+                        wordlist)alength
+                        wordlist)dlength
+                        wordlist)axlength
+                        wordlist)dxlength
+                        wordlist)first
+                        wordlist)last
+                        index
+                        index)wordrefs0
+                        index)wordrefs1
+                        index)alpha
+                        index)revalpha
+                        index)afreq
+                        index)dfreq
+                        index)dalpha
+                        index)alength
+                        index)dlength
+                        index)axlength
+                        index)dxlength
+                        index)first
+                        index)last
+                         
+                        selectwords
+                        *frequency) 2
+                        concordance
+                        concordance)left
+                         
+                        selectwords
+                        *listofwords)passeport
+                        collocations)kwic,cite 5 by 5,linerefs0
+ default                *span          4 by 4
+                        *frequency) >2
+                         
+                        selectwords
+                        *listofwords)passeport
+                        collocations
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)about collocate
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)condensed
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)fullcondensed
+ default                *span          4 by 4
+ default                *frequency     >1
+                        collocations)fullcondensed
+                        *span) 4 by 4 restricted
+ default                *frequency     >1
+                        co-occurrence
+                        *phrase)dans les
+                        *series)dans upto4 les
+                        *pattern) *ait
+                        *choice) europeenne europeen
+                        co-occurrence)count
+                        *phrase)dans les
+                        *series)dans upto4 les
+                        *pattern) *ait
+                        *choice) europeenne europeen
+                        co-occurrence)null,count
+                        *phrase)dans les
+                        *series)dans upto4 les
+                        *pattern) *ait
+                        *choice) europeenne europeen
+                         
+                        everyword
+                        collocations)condensed
+ default                *span          4 by 4
+ default                *frequency     >1
+                        everycollocate
+                        rejecting
+                        *frequency) >3
+                        accepting
+                        *listofwords) la
+                         
+                        statistics
+                        *profile)binsize10
+                         
+                        message)finished
+                        finish
